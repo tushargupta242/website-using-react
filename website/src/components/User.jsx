@@ -8,4 +8,3 @@ export default function User() {
     <div>User: {userid}</div>
   )
 }
-
